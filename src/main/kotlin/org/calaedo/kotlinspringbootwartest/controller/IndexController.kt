@@ -11,7 +11,7 @@ import java.util.concurrent.atomic.AtomicInteger
 class IndexController {
 
     val atomic: AtomicInteger = AtomicInteger(0)
-
+    
     @GetMapping("/")
     fun indexGet(model: Model): String {
         model.addAttribute("data", atomic.get())
