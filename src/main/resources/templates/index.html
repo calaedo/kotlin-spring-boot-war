@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+    <title>Spring with Spring Boot, Spring MVC, and Kotlin</title>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
+</head>
+<body>
+<h1>Hello Kotlin!</h1>
+<h2 th:text="'Counter = ' + ${data}"></h2>
+
+<form action="/" method="post">
+    <button type="submit">Press to increment</button>
+</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kotlin-spring-boot-war-test.iml" filepath="$PROJECT_DIR$/kotlin-spring-boot-war-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-spring-boot-war-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-spring-boot-war-test_main.iml" group="kotlin-spring-boot-war-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-spring-boot-war-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-spring-boot-war-test_test.iml" group="kotlin-spring-boot-war-test" />
+    </modules>
+  </component>
+</project>
