@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.PostMapping
 import java.util.concurrent.atomic.AtomicInteger
 
 @Controller
-
 class IndexController {
 
     val atomic: AtomicInteger = AtomicInteger(0)
